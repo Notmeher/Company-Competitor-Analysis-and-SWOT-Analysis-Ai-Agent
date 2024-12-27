@@ -29,7 +29,7 @@ This project is a multi-agent system designed to automate company research, comp
 ### Steps
 1. Clone the repository:
    ```bash
-   gh repo clone TareqazizUday/Company-Competitor-Service-Analysis-and-SWOT-Agent_Using_crewai
+   gh repo clone 
    ```
 2. Install dependencies:
    ```bash
